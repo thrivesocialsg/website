@@ -4353,6 +4353,12 @@ figcaption {
   overflow: hidden;
 }
 
+.resize_fit_center {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;
+}
+
 .left-arrow {
   display: none;
 }
